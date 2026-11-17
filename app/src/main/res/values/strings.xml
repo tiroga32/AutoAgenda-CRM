@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AutoAgenda</string>
+    <string name="nav_today">Hoy</string>
+    <string name="nav_clients">Clientes</string>
+    <string name="nav_pipeline">Tablero</string>
+    <string name="nav_backup">Respaldo</string>
+    <string name="action_add_client">Nuevo cliente</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_call">Llamar</string>
+    <string name="action_whatsapp">WhatsApp</string>
+    <string name="action_sms">SMS</string>
+    <string name="error_no_app_for_action">No se encontró una aplicación disponible para esta acción.</string>
+</resources>

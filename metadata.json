@@ -1,0 +1,6 @@
+{
+  "name": "AutoAgenda",
+  "description": "CRM para agencias de autos: seguimiento diario, embudo de ventas, notas cronológicas, contacto directo y respaldo CSV/JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
